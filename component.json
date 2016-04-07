@@ -1,0 +1,10 @@
+{
+    "name": "jquery-mousewheel",
+    "main": "jquery.mousewheel",
+    "repos": "",
+    "version": "3.1.13",
+    "description": "jquery-mousewheel",
+    "dependencies": [
+        "jquery@1.9.1"
+    ]
+}
